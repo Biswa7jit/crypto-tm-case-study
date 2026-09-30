@@ -5,8 +5,7 @@ transaction-monitoring program — from customer onboarding through
 alert investigation to a risk-based disposition. Built entirely in
 Excel formulas. No Python, no SQL, no VBA.
 
-This is the seventh project in an AML/KYC portfolio series, and the
-one that ties the full lifecycle together: a simulated customer, the
+This project ties the full lifecycle together: a simulated customer, the
 alert that triggered on their activity, the investigation comparing
 their stated profile against what they actually did, wallet-level
 analysis of where their funds went, and the risk-based disposition
@@ -96,9 +95,9 @@ All standard Excel — no add-ins, no VBA:
 
 ## Results
 
-![Wallet risk screening](screenshots/wallet_risk_screening.png)
+![Wallet risk screening](wallet_risk_screening.png)
 
-![Investigation workpaper](screenshots/investigation_workpaper.png)
+![Investigation workpaper](investigation_workpaper.png)
 
 The full investigation workpaper computes a case risk score of
 **105** (against a 70-point threshold for the highest disposition
@@ -137,10 +136,5 @@ reasoning intact rather than a table of isolated findings.
 
 ## About
 
-Built by [Your Name], CAMS-certified compliance analyst exploring
-crypto-asset AML/compliance, as a portfolio piece. See also: [link to
-SQL AML project], [link to Excel AML transaction monitoring project],
-[link to Sanctions & PEP screening project], [link to Customer Risk
-Rating Model project], [link to AML QA Review project], [link to
-On-Chain Transaction Investigation project], and [link to Medium
-AML/crypto compliance article series].
+Built by Biswajit Das, Crypto compliance analyst exploring
+crypto-asset AML/compliance, as a portfolio piece. 
