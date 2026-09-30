@@ -1,0 +1,9 @@
+field,value
+alert_id,TM-ALERT-88213
+alert_date,2025-11-14
+alert_type,Deposit Velocity + Adverse Wallet Screening (Combined Rule)
+triggering_rule_1,Monthly deposit volume > 300% of rolling 3-month average
+triggering_rule_2,Withdrawal to wallet with Chain Analytics Co risk score >= 70 (High/Severe)
+transactions_involved,TX-014 through TX-025
+alert_priority,High
+assigned_analyst,Jordan Ellis

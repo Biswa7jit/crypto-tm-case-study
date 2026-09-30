@@ -1,0 +1,15 @@
+field,value
+customer_id,CX-2025-0847
+customer_name,Alex Mercer
+date_of_birth,1989-04-12
+country_of_residence,United States
+occupation,Freelance Graphic Designer
+stated_source_of_funds,Freelance/consulting income
+stated_purpose_of_account,Personal investment in cryptocurrency
+stated_expected_monthly_volume_min_usd,4000
+stated_expected_monthly_volume_max_usd,6000
+onboarding_date,2025-08-01
+initial_risk_rating,Medium
+id_verification_method,Government ID + Liveness Check
+declared_personal_wallet_address,0x94ac26f9b7f9fab8dea8003a11452eee891e77f5
+declared_wallet_verification,Ownership verified via signed message challenge at onboarding

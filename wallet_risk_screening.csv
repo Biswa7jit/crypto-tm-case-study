@@ -1,0 +1,4 @@
+wallet_address,screening_provider,risk_score,risk_category,exposure_type,last_screened_date
+0x94ac26f9b7f9fab8dea8003a11452eee891e77f5,Chain Analytics Co,5,Low,"None - customer-attributed wallet, ownership verified",2025-11-14
+0xd32fca24e8114256e8f422605e62ecba47a580f2,Chain Analytics Co,97,Severe,Direct: Darknet Marketplace,2025-11-14
+0xe56abba9fc5b65775b78642c79c1db2db930f65f,Chain Analytics Co,74,High,Indirect: Mixing Service (2 hops),2025-11-14

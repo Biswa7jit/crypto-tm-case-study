@@ -1,0 +1,26 @@
+transaction_id,date,type,asset,amount_usd,method_or_counterparty,notes
+TX-001,2025-08-03,Fiat Deposit,USD,2000,ACH Bank Transfer,
+TX-002,2025-08-05,Crypto Buy,BTC,1800,Platform Trade,
+TX-003,2025-08-20,Fiat Deposit,USD,2500,ACH Bank Transfer,
+TX-004,2025-08-22,Crypto Buy,ETH,2200,Platform Trade,
+TX-005,2025-09-02,Fiat Deposit,USD,3000,ACH Bank Transfer,
+TX-006,2025-09-04,Crypto Buy,BTC,2800,Platform Trade,
+TX-007,2025-09-18,Fiat Deposit,USD,2000,ACH Bank Transfer,
+TX-008,2025-09-19,Crypto Withdrawal,BTC,1900,0x94ac26f9b7f9fab8dea8003a11452eee891e77f5,To declared personal wallet
+TX-009,2025-10-01,Fiat Deposit,USD,3500,ACH Bank Transfer,
+TX-010,2025-10-03,Crypto Buy,ETH,3200,Platform Trade,
+TX-011,2025-10-15,Fiat Deposit,USD,2800,ACH Bank Transfer,
+TX-012,2025-10-16,Crypto Buy,BTC,2600,Platform Trade,
+TX-013,2025-10-28,Crypto Withdrawal,ETH,2400,0x94ac26f9b7f9fab8dea8003a11452eee891e77f5,To declared personal wallet
+TX-014,2025-11-03,Fiat Deposit,USD,9500,Wire Transfer,"Payment method change: first wire, not ACH"
+TX-015,2025-11-04,Fiat Deposit,USD,9800,Wire Transfer,
+TX-016,2025-11-05,Fiat Deposit,USD,9200,Wire Transfer,
+TX-017,2025-11-06,Fiat Deposit,USD,15000,Wire Transfer,
+TX-018,2025-11-07,Fiat Deposit,USD,12000,Wire Transfer,
+TX-019,2025-11-08,Fiat Deposit,USD,9900,Wire Transfer,
+TX-020,2025-11-10,Fiat Deposit,USD,19600,Wire Transfer,
+TX-021,2025-11-11,Crypto Buy,BTC,40000,Platform Trade,
+TX-022,2025-11-11,Crypto Buy,ETH,35000,Platform Trade,
+TX-023,2025-11-12,Crypto Withdrawal,BTC,38000,0xd32fca24e8114256e8f422605e62ecba47a580f2,To previously unseen external wallet
+TX-024,2025-11-13,Crypto Withdrawal,ETH,33500,0xe56abba9fc5b65775b78642c79c1db2db930f65f,To previously unseen external wallet
+TX-025,2025-11-13,Crypto Withdrawal,BTC,2000,0x94ac26f9b7f9fab8dea8003a11452eee891e77f5,To declared personal wallet
